@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 - 👋 Hi, I’m @k2pme
 - 👀 Software architect, and Fullstack Develloper 
 - 📫 How to reach me : cmantsila0@gmail.com
