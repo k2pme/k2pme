@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @k2pme
-- 👀 I’m interested in programming,
-- 🌱 I’m currently learning Software engeneering at university
-- 💞️ For having more experience, I want to collaborate for example in python, Nodejs, or React projects
+- 👀 Software architect, and Fullstack Develloper 
 - 📫 How to reach me : cmantsila0@gmail.com
 
 <!---
