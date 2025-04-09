@@ -6,7 +6,7 @@
 ### Who I am
 - 👋 Hi, I’m @k2pme
 - 👀 Software architect, and Fullstack Develloper 
-- 📫 How to reach me : cmantsila0@gmail.com
+
 
 
 ---
